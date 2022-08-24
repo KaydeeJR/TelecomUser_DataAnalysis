@@ -1,0 +1,56 @@
+Bearer Id                                   float64
+Start                                        object
+Start ms                                    float64
+End                                          object
+End ms                                      float64
+Dur. (ms)                                   float64
+IMSI                                        float64
+MSISDN/Number                               float64
+IMEI                                        float64
+Last Location Name                           object
+Avg RTT DL (ms)                             float64
+Avg RTT UL (ms)                             float64
+Avg Bearer TP DL (kbps)                     float64
+Avg Bearer TP UL (kbps)                     float64
+TCP DL Retrans. Vol (Bytes)                 float64
+TCP UL Retrans. Vol (Bytes)                 float64
+DL TP < 50 Kbps (%)                         float64
+50 Kbps < DL TP < 250 Kbps (%)              float64
+250 Kbps < DL TP < 1 Mbps (%)               float64
+DL TP > 1 Mbps (%)                          float64
+UL TP < 10 Kbps (%)                         float64
+10 Kbps < UL TP < 50 Kbps (%)               float64
+50 Kbps < UL TP < 300 Kbps (%)              float64
+UL TP > 300 Kbps (%)                        float64
+HTTP DL (Bytes)                             float64
+HTTP UL (Bytes)                             float64
+Activity Duration DL (ms)                   float64
+Activity Duration UL (ms)                   float64
+Dur. (ms).1                                 float64
+Handset Manufacturer                         object
+Handset Type                                 object
+Nb of sec with 125000B < Vol DL             float64
+Nb of sec with 1250B < Vol UL < 6250B       float64
+Nb of sec with 31250B < Vol DL < 125000B    float64
+Nb of sec with 37500B < Vol UL              float64
+Nb of sec with 6250B < Vol DL < 31250B      float64
+Nb of sec with 6250B < Vol UL < 37500B      float64
+Nb of sec with Vol DL < 6250B               float64
+Nb of sec with Vol UL < 1250B               float64
+Social Media DL (Bytes)                     float64
+Social Media UL (Bytes)                     float64
+Google DL (Bytes)                           float64
+Google UL (Bytes)                           float64
+Email DL (Bytes)                            float64
+Email UL (Bytes)                            float64
+Youtube DL (Bytes)                          float64
+Youtube UL (Bytes)                          float64
+Netflix DL (Bytes)                          float64
+Netflix UL (Bytes)                          float64
+Gaming DL (Bytes)                           float64
+Gaming UL (Bytes)                           float64
+Other DL (Bytes)                            float64
+Other UL (Bytes)                            float64
+Total UL (Bytes)                            float64
+Total DL (Bytes)                            float64
+dtype: object

@@ -1,0 +1,56 @@
+Bearer Id                                      991
+Start                                            1
+Start ms                                         1
+End                                              1
+End ms                                           1
+Dur. (ms)                                        1
+IMSI                                           570
+MSISDN/Number                                 1066
+IMEI                                           572
+Last Location Name                            1153
+Avg RTT DL (ms)                              27829
+Avg RTT UL (ms)                              27812
+Avg Bearer TP DL (kbps)                          1
+Avg Bearer TP UL (kbps)                          1
+TCP DL Retrans. Vol (Bytes)                  88146
+TCP UL Retrans. Vol (Bytes)                  96649
+DL TP < 50 Kbps (%)                            754
+50 Kbps < DL TP < 250 Kbps (%)                 754
+250 Kbps < DL TP < 1 Mbps (%)                  754
+DL TP > 1 Mbps (%)                             754
+UL TP < 10 Kbps (%)                            792
+10 Kbps < UL TP < 50 Kbps (%)                  792
+50 Kbps < UL TP < 300 Kbps (%)                 792
+UL TP > 300 Kbps (%)                           792
+HTTP DL (Bytes)                              81474
+HTTP UL (Bytes)                              81810
+Activity Duration DL (ms)                        1
+Activity Duration UL (ms)                        1
+Dur. (ms).1                                      1
+Handset Manufacturer                           572
+Handset Type                                   572
+Nb of sec with 125000B < Vol DL              97538
+Nb of sec with 1250B < Vol UL < 6250B        92894
+Nb of sec with 31250B < Vol DL < 125000B     93586
+Nb of sec with 37500B < Vol UL              130254
+Nb of sec with 6250B < Vol DL < 31250B       88317
+Nb of sec with 6250B < Vol UL < 37500B      111843
+Nb of sec with Vol DL < 6250B                  755
+Nb of sec with Vol UL < 1250B                  793
+Social Media DL (Bytes)                          0
+Social Media UL (Bytes)                          0
+Google DL (Bytes)                                0
+Google UL (Bytes)                                0
+Email DL (Bytes)                                 0
+Email UL (Bytes)                                 0
+Youtube DL (Bytes)                               0
+Youtube UL (Bytes)                               0
+Netflix DL (Bytes)                               0
+Netflix UL (Bytes)                               0
+Gaming DL (Bytes)                                0
+Gaming UL (Bytes)                                0
+Other DL (Bytes)                                 0
+Other UL (Bytes)                                 0
+Total UL (Bytes)                                 1
+Total DL (Bytes)                                 1
+dtype: int64
