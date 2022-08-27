@@ -1,0 +1,18 @@
+import pandas as pd
+class ExtractDataframe():
+    def csv_to_dataframe(self, filePath: str) -> pd.DataFrame:
+        dataframe = pd.read_csv(filePath.replace(" ", ""))
+        return dataframe
+
+    def get_numeric_columns_only(self, df)->pd.DataFrame:
+        return df.select_dtypes(exclude=['object'])
+
+    def get_applications_df(self, df)-> pd.DataFrame:
+        return df.iloc[:,39:53]
+        # applications = list(applications_df.columns)
+    
+    def get_specific_column(self,df,column)->pd.DataFrame:
+        return df[column]
+
+    def extract_certain_columns(self, df, columnList)->pd.DataFrame:
+        return df[columnList]
